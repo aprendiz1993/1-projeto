@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+/* Menu de navegação */
+.menu {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+/* Conteúdo principal */
+.conteudo {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+/* Rodapé */
+.rodape {
+  background-color: #ddd;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
